@@ -1,2 +1,2 @@
-# Web-dev-Project
-It is a project of making website using html, CSS and JavaScript in our 3rd semester
+It is an assignment of semester3 in BSC.Hons computing of softewaraica college
+
